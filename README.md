@@ -1,8 +1,8 @@
 # Hi there, I'm Miguel! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
+<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
+<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
 
 # Tech stack I learn at General Assembly
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -23,3 +23,4 @@
 <img alt="SematicUI" src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" />
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
