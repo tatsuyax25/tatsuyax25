@@ -1,9 +1,5 @@
 # Hi there, I'm Miguel! 👋
 
-<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
-
-<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
-
 ### Tech stack or tool I learn and use at General Assembly
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -38,3 +34,10 @@
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="XD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+<br />
+
+#
+
+<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
+
+<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
