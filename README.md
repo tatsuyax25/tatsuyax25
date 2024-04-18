@@ -3,7 +3,6 @@
 <img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
 
 <img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
-
 #
 
 ## Tech stack I learn at General Assembly
