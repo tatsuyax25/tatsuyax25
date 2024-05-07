@@ -1,4 +1,12 @@
-# Hi there, I'm Miguel! 👨🏽‍💻
+# Hi there, I'm Miguel! 👨🏽‍💻👋
+
+Hello! I'm a Software Engineer with a deep-rooted passion for the intersection of technology and creativity, particularly within the game industry. My journey began in e-commerce, where I provided technical support and served as a webmaster, refining websites with precision and an eye for detail.
+
+My experiences have cultivated a strong foundation in HTML and CSS and a customer-centric approach to problem-solving. But it's not just about the code - it's about the impact. I'm fascinated by the potential of technology in diverse fields such as healthcare, aviation, robotics, climate change, and space exploration.
+
+Today, I'm channeling my passion for gamification and my broad tech interests into creating innovative software solutions. I'm excited to leverage my skills and curiosity to contribute to meaningful advancements in these sectors. I believe in the power of technology to shape our future, and I'm ready to be part of that journey.
+
+#
 
 ### At General Assembly, I learned and utilized a variety of tech stacks and tools, which include:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -94,3 +102,8 @@
 <img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
 
 <img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
+
+#
+
+## 📨 Get in Touch
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/)
