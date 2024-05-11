@@ -106,4 +106,4 @@ Today, I'm channeling my passion for gamification and my broad tech interests in
 #
 
 ## 📨 Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/) <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
