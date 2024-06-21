@@ -99,8 +99,6 @@ Today, I'm channeling my passion for gamification and my broad tech interests in
 
 #
 
-<img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=cobalt" />
-
 <img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
 
 #
