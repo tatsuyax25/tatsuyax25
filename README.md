@@ -97,8 +97,6 @@ Today, I'm channeling my passion for gamification and my broad tech interests in
 <img align="left" alt="Yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
 <br />
 
-#
-
 <img height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
 <br />
 
