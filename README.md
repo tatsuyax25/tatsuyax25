@@ -1,10 +1,8 @@
 # Hi there, I'm Miguel! 👨🏽‍💻👋
 
-Hello! I'm a Software Engineer with a deep-rooted passion for the intersection of technology and creativity, particularly within the game industry. My journey began in e-commerce, where I provided technical support and served as a webmaster, refining websites with precision and an eye for detail.
+As a devoted and driven Software Engineer, I specialize in developing innovative and efficient software solutions that drive business success. With a strong foundation in both front-end and back-end development, I excel in crafting scalable applications using the MERN stack (MongoDB, Express, React, Node.js) and other cutting-edge technologies.
 
-My experiences have cultivated a strong foundation in HTML and CSS and a customer-centric approach to problem-solving. But it's not just about the code - it's about the impact. I'm fascinated by the potential of technology in diverse fields such as healthcare, aviation, robotics, climate change, and space exploration.
-
-Today, I'm channeling my passion for gamification and my broad tech interests into creating innovative software solutions. I'm excited to leverage my skills and curiosity to contribute to meaningful advancements in these sectors. I believe in the power of technology to shape our future, and I'm ready to be part of that journey.
+My journey in technology has been marked by a commitment to continuous learning and a dedication to excellence. From my early days providing technical support and managing e-commerce platforms to my current focus on full-stack development, I have always prioritized user experience, clean code, and impactful results.
 
 #
 
