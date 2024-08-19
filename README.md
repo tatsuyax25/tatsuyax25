@@ -97,7 +97,8 @@ My journey in technology has been marked by a commitment to continuous learning 
 
 #
 
-<img height=300 width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true" />
+<img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
 <br />
 
 ## 📨 Get in Touch
