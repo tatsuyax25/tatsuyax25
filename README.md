@@ -104,3 +104,7 @@ My journey in technology has been marked by a commitment to continuous learning 
 
 ## 📨 Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/) <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+
+#
+
+<a href="https://app.daily.dev/mrurenax25"><img src="https://api.daily.dev/devcards/v2/MMijGiqFSGEsk0QPlm7Io.png?type=default&r=4zv" width="356" alt="Miguel's Dev Card"/></a>
