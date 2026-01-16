@@ -103,10 +103,6 @@ My journey in technology has been marked by a commitment to continuous learning 
 
 #
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true" />
-<img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact" />
-<br />
-
 ## 📨 Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/) <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
