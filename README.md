@@ -1,12 +1,84 @@
-# Hi there, I'm Miguel! 👨🏽‍💻👋
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Hi%20there%2C%20I'm%20Miguel!%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&fontSize=36&fontColor=c0caf5&fontAlignY=38&desc=Software%20Engineer%20%7C%20Front-End%20Developer%20%7C%20Web%20Developer&descAlignY=58&descColor=a9b1d6" />
+</div>
+
+<br />
+
+<!-- Open to Work + Portfolio -->
+<div align="center">
+
+🟢 **Open to new opportunities** — actively seeking Front-End Developer, Web Developer, and Software Engineer roles in the Orange County / Los Angeles area (remote or hybrid)
+
+🌐 **Portfolio:** [miguelurenaportfolio.netlify.app](https://miguelurenaportfolio.netlify.app)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+💼 **LinkedIn:** [urena-miguel82](https://www.linkedin.com/in/urena-miguel82/)
+
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=tatsuyax25&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## 👨🏽‍💻 About Me
 
 As a devoted and driven Software Engineer, I specialize in developing innovative and efficient software solutions that drive business success. With a strong foundation in both front-end and back-end development, I excel in crafting scalable applications using the MERN stack (MongoDB, Express, React, Node.js) and other cutting-edge technologies.
 
 My journey in technology has been marked by a commitment to continuous learning and a dedication to excellence. From my early days providing technical support and managing e-commerce platforms to my current focus on full-stack development, I have always prioritized user experience, clean code, and impactful results.
 
-#
+---
 
-### At General Assembly, I learned and utilized a variety of tech stacks and tools, which include:
+## 🔭 Currently
+
+- 🔍 Actively job searching for Front-End Developer, Web Developer, and Software Engineer roles
+- 📚 Expanding my skills in TypeScript, Next.js, and Tailwind CSS
+- 🛠️ Always looking for new projects to build and problems to solve
+
+---
+
+## 🚀 Featured Projects
+
+### 🏕️ The Great Outdoor Journal
+A full-stack journaling app for outdoor enthusiasts to log hikes, camping trips, and adventures. Built with the MERN stack, featuring user authentication, image uploads, and interactive maps.
+
+**Tech:** React · Node.js · Express · MongoDB · AWS S3
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-70a5fd?style=flat-square&logo=github)](https://github.com/tatsuyax25/Project-2-SEI)
+[![Live](https://img.shields.io/badge/Live-Demo-bb9af7?style=flat-square&logo=netlify)](https://the-great-journal.onrender.com/)
+
+---
+
+### ⚡ Renewable Energy Dashboard
+A data visualization dashboard displaying real-time renewable energy statistics and trends across different regions. Focused on clean UI design and dynamic charting.
+
+**Tech:** React · Chart.js · Flask · Python · REST APIs
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-70a5fd?style=flat-square&logo=github)](https://github.com/tatsuyax25/renewable-energy-monitor)
+[![Live](https://img.shields.io/badge/Live-Demo-bb9af7?style=flat-square&logo=netlify)](https://renewableenergymonitordashboard.onrender.com/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tatsuyax25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuyax25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=tatsuyax25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### At General Assembly, I learned and utilized a variety of tech stacks and tools:
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -23,7 +95,7 @@ My journey in technology has been marked by a commitment to continuous learning 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Mongoose" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+<img align="left" alt="Mongoose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
 <img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 <img align="left" alt="Eslint" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -38,19 +110,27 @@ My journey in technology has been marked by a commitment to continuous learning 
 <img align="left" alt="Replit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 <img align="left" alt="Stackoverflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
-<img align="left" alt="Trello" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+<img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-<br />
 
-### At Westwood College, I learned and utilized a variety of tech stacks and tools, which include:
+<br clear="left" />
+
+---
+
+### At Westwood College, I learned and utilized a variety of tech stacks and tools:
+
 <img align="left" alt="3ds Max" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<br />
+
+<br clear="left" />
+
+---
 
 ### I am expanding my knowledge and skills by learning additional tech stacks and tools:
+
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
 <img align="left" alt="Appwrite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
@@ -99,13 +179,33 @@ My journey in technology has been marked by a commitment to continuous learning 
 <img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
 <img align="left" alt="XD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
 <img align="left" alt="Yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
-<br />
 
-#
+<br clear="left" />
+
+---
+
+## 🎮 Fun Facts
+
+- 🎨 I have a Bachelor's in **Game Art and Design** from Westwood College — so I bring a visual design eye to everything I build
+- 🌱 I transitioned into software engineering from e-commerce and technical support, which means I always think about the user first
+- 🕹️ When I'm not coding, you'll find me exploring games, 3D art, and creative tools like Blender and Unreal Engine
+- 📍 Based in **Anaheim, CA** — built for the OC/LA tech scene
+
+---
 
 ## 📨 Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/) <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
-#
+Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/) <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
-<a href="https://app.daily.dev/mrurenax25"><img src="https://api.daily.dev/devcards/v2/MMijGiqFSGEsk0QPlm7Io.png?type=default&r=4zv" width="356" alt="Miguel's Dev Card"/></a>
+<br clear="left" />
+
+---
+
+<div align="center">
+  <a href="https://app.daily.dev/mrurenax25"><img src="https://api.daily.dev/devcards/v2/MMijGiqFSGEsk0QPlm7Io.png?type=default&r=4zv" width="356" alt="Miguel's Dev Card"/></a>
+</div>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" />
+</div>
