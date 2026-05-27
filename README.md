@@ -202,7 +202,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/urena-miguel82/) <img 
 ---
 
 <div align="center">
-  <a href="https://app.daily.dev/mrurenax25"><img src="https://api.daily.dev/devcards/v2/MMijGiqFSGEsk0QPlm7Io.png?type=default&r=4zv" width="356" alt="Miguel's Dev Card"/></a>
+  <a href="https://app.daily.dev/mrurenax25"><img src="https://api.daily.dev/devcards/v2/MMijGiqFSGEsk0QPlm7Io.png?type=wide&r=emo" width="652" alt="Miguel's Dev Card"/></a>
 </div>
 
 <!-- Footer Banner -->
